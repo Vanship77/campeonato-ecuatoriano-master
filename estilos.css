@@ -1,0 +1,110 @@
+
+body{
+    background-color: rgb(83, 2, 2);
+}
+
+h1{
+color: aliceblue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 100;
+margin: 50px 150px;
+
+}
+
+.cuadrodatos h4{
+background-color: aliceblue;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+
+a{
+    display: flexbox;
+    width: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    border: radius 50px;
+    margin: 3px 3px;
+    padding: 15px 30px;
+    background-color: rgb(88, 30, 143);
+    color: rgb(245, 245, 245);
+    text-decoration: rgb(230, 230, 230)
+
+
+}
+
+table {
+    background-color: rgb(73, 71, 71);
+    font-family: monospace;
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    min-width: 200vh;
+    width: 500px;
+    margin: 50;
+    border: 50px;
+    padding: 100px;
+    text-align: justify;
+    text-decoration: solid;
+
+    
+}
+
+
+th{
+    color: rgb(199, 68, 216);
+}
+.glosario h4{
+    align-items: center;
+justify-content: center;
+font-family: monospace;
+}
+
+td{
+    color: rgb(0, 0, 0);
+}
+
+footer{
+    color: aliceblue
+}
+
+
+
+
+
+
+
+@import url(fechasdelospartidos/horariospartidos.html);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url(tabladeposiciones/posiciones.html);
+
+
+
+
+
+
+
+
+
+
