@@ -21,7 +21,7 @@ align-items: center;
 
 
 
-a{
+.buttons a{
     display: flexbox;
     width: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,15 +29,15 @@ a{
     border: radius 50px;
     margin: 3px 3px;
     padding: 15px 30px;
-    background-color: rgb(88, 30, 143);
+    background-color: rgb(96, 25, 138);
     color: rgb(245, 245, 245);
-    text-decoration: rgb(230, 230, 230)
+    text-decoration: rgb(255, 255, 255)
 
 
 }
 
 table {
-    background-color: rgb(73, 71, 71);
+    background-color: rgb(201, 195, 195);
     font-family: monospace;
     font-size: x-large;
     align-items: center;
@@ -53,6 +53,7 @@ table {
 
     
 }
+
 
 
 th{
@@ -72,32 +73,6 @@ footer{
     color: aliceblue
 }
 
-
-
-
-
-
-
-@import url(fechasdelospartidos/horariospartidos.html);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@import url(tabladeposiciones/posiciones.html);
 
 
 
